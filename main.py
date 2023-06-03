@@ -32,3 +32,7 @@ def voice(text):
 
 while True:
     text(recognition())
+
+
+def testing():
+    print(1)
